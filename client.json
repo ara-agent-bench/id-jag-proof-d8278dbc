@@ -1,0 +1,17 @@
+{
+  "client_id": "https://raw.githubusercontent.com/ara-agent-bench/id-jag-proof-d8278dbc/main/client.json",
+  "client_name": "ID-JAG proof d8278dbc (test only)",
+  "token_endpoint_auth_method": "private_key_jwt",
+  "jwks": {
+    "keys": [
+      {
+        "kty": "RSA",
+        "n": "nEMnB9oZT3cza8vsy-XwXmXoARXzoOatRwmnyX83PPT2PjbhqpgiAv7t9q-bq4u72IexSuTi0WiEGX0Uk1TnzPxH0YIqWiDWdmtXr0xiBZJwqG-ky9kMFhs6IKU9BMS421k-PSgPvOJo_y9C905xK_O-h6snmHhrvrn8aPKeKiubaS_TbPB6WBhd1cFZL40qWyr4e-nTIZtPyIi7lsQvBOXCxVnV31V9UEcN699rwci2gckXO3iXzauaSzdX1ZL0cY9_RpaZjfzXwNqnNV9IXwJAAqeKcChPb4Ui02E6uO0HFc1_2bJxZAxJ6mFEcNOukAXWA2d0QCs20sAWXqsn4w",
+        "e": "AQAB",
+        "kid": "id-jag-proof-d8278dbc-client",
+        "alg": "RS256",
+        "use": "sig"
+      }
+    ]
+  }
+}
