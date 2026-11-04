@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "8HKWAuKJSIbH35MdBnpyLdhcCoFVIXQqInqLGbFw94pNtxVZmuz-3zderDp0jlJDb1L-65Y7LS8sY07WT9l6nokYrJD_Oq4LK34A2ONoHn7hzlyOxe2IiumNX0S1hLs4yu8vA6EPNF2Y2Ax5Ve159nH7rYW-fmLJffFWgoqEq93_2zfWek6AePhI2Kx-Lm0jaIJvQK9AHFxm0oRAWMzCbS_MIaNF7JZU7k6waoz-QSwGSUPrySHwr9n-x2eRhzW-K3NNJDywYWaFdJ-eUDLRd_gf-FzFCIuQ6HzxsYq7lMtZu1T2TOUr0t8iWqLdbpBBLNm3od6GfVAr9_CCJQ1LLQ",
+      "e": "AQAB",
+      "kid": "id-jag-proof-d8278dbc-issuer",
+      "alg": "RS256",
+      "use": "sig"
+    }
+  ]
+}
