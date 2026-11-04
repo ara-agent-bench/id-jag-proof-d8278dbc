@@ -1,0 +1,7 @@
+{
+  "issuer": "https://raw.githubusercontent.com/ara-agent-bench/id-jag-proof-d8278dbc/main/issuer",
+  "jwks_uri": "https://raw.githubusercontent.com/ara-agent-bench/id-jag-proof-d8278dbc/main/issuer/jwks.json",
+  "id_jag_signing_alg_values_supported": [
+    "RS256"
+  ]
+}
